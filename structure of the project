@@ -1,0 +1,17 @@
+job-interview-agent/
+│
+├── agent/
+│   ├── interview_agent.py
+│   ├── resume_matcher.py
+│   ├── jd_parser.py
+│   └── utils.py
+│
+├── notebook/
+│   └── job_interview_agent_demo.ipynb
+│
+├── assets/
+│   ├── thumbnail.png
+│   └── sample_resume.txt
+│
+├── README.md
+└── requirements.txt
